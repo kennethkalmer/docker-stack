@@ -12,23 +12,23 @@ pipeline of sorts.
 TODO
 ----
 
-[ ] Have good solid base images ready (or Dockerfile's)
-[ ] Have a way to reliably get a checkout of the app into a container
-[ ] Have a reliable way to setup an environment for the container
-[ ] Run the tests in the container
-[ ] Commit and publish the container when the tests pass
-[ ] Deploy the container
-[ ] Switch load balancers over to new image
-[ ] Monitor for errors for short period
-[ ] Switch over to new container
-[ ] Kill older container
+- [ ] Have good solid base images ready (or Dockerfile's)
+- [ ] Have a way to reliably get a checkout of the app into a container
+- [ ] Have a reliable way to setup an environment for the container
+- [ ] Run the tests in the container
+- [ ] Commit and publish the container when the tests pass
+- [ ] Deploy the container
+- [ ] Switch load balancers over to new image
+- [ ] Monitor for errors for short period
+- [ ] Switch over to new container
+- [ ] Kill older container
 
 AUXILARY INFRASTRUCTURE
 -----------------------
 
-[ ] PostgreSQL container
-[ ] Hipache/redis container
-[ ] Docker registry container
+- [ ] PostgreSQL container
+- [ ] Hipache/redis container
+- [ ] Docker registry container
 
 WILD WEST
 ---------
