@@ -41,3 +41,4 @@ RUN apt-get install -y zlib1g-dev openssl libssl-dev libreadline-dev curl
 
 # install ruby
 RUN /bin/bash -l -c 'rbenv install 2.0.0-p247 && rbenv global 2.0.0-p247 && rbenv rehash'
+RUN /bin/bash -l -c 'gem install bundler'
