@@ -23,7 +23,7 @@ TODO
 - [ ] Switch over to new container
 - [ ] Kill older container
 
-AUXILARY INFRASTRUCTURE
+AUXILIARY INFRASTRUCTURE
 -----------------------
 
 - [ ] PostgreSQL container
